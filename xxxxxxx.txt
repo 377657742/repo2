@@ -10,3 +10,10 @@ public void xxx(){
     66666;
     return xxx;
 }
+
+-----------------------------------
+public void xxx(){
+    333333;
+    66666;
+    return xxx;
+}
